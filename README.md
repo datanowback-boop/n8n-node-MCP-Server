@@ -27,4 +27,7 @@ Required parameter: url (string) - Target URL
 Optional parameter: method (string) - HTTP method (GET, POST, PUT, DELETE, etc.)
 
 
+
 -> Type: mcp__n8n__http-request to https://books.toscrape.com/ using get then create a csv flie of all the details of all the books on the first two pages of the site (authur, title, price, image link)
+
+
