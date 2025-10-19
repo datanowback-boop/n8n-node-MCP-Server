@@ -8,9 +8,9 @@ The proof of concept:
 3) create a flow that can interact with claude
 
 Requirements:
-N8N: Currently only works with n8n@1.116.1 installed in your docker
-VS Code with Claude code installed -> or similar enviroment to support Claude Code
-MCP-Server
+- N8N: Currently only works with n8n@1.116.1 installed in your docker.
+- VS Code with Claude code installed -> or similar enviroment to support Claude Code.
+- MCP-Server.
 
 
 
