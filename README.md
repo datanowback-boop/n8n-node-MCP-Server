@@ -21,7 +21,8 @@ Claude Code response:
 
 Based on the MCP tools available, I have access to these two N8N MCP tools:
 mcp__n8n__webhook-trigger - Trigger an N8N webhook with custom data
-Required parameter: data (object) - Data to send to the webhook
+Required parameter: data (object) - Data to send to the webhook.
+
 mcp__n8n__http-request - Make HTTP requests through N8N
 Required parameter: url (string) - Target URL
 Optional parameter: method (string) - HTTP method (GET, POST, PUT, DELETE, etc.)
